@@ -40,6 +40,8 @@
 				<version>2.0.2.Final</version>
 				<configuration>
 					<name>demo.war</name>
+					<username>admin</username>
+					<password>secret</password>
 				</configuration>
 			</plugin>
 		</plugins>
